@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="action_discard_reminder">Удалите напоминание</string>
+    <string name="action_save_reminder">Сохраните напоминание</string>
+</resources>
